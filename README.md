@@ -1,6 +1,6 @@
 # Server-Hardening-Guidelines
 
-System hardening is the process of securing a server or computer system by minimizing its attack surface, or surface of vulnerability, and potential attack vectors. It’s a form of cyberattack protection that involves closing system loopholes that cyberattackers frequently use to exploit the system and gain access to users’ sensitive data.
+**System hardening** is the process of securing a server or computer system by minimizing its attack surface, or surface of vulnerability, and potential attack vectors. It’s a form of cyberattack protection that involves closing system loopholes that cyberattackers frequently use to exploit the system and gain access to users’ sensitive data.
 
 One official definition of system hardening, according to the National Institute of Standards and Technology (NIST), is that it’s “a process intended to eliminate a means of attack by patching vulnerabilities and turning off non-essential services.”
 
@@ -13,10 +13,10 @@ Now you know why system hardening exists, but you might be wondering about its p
 The basic purpose of implementing system hardening techniques and practices is to simply minimize the number of potential entryways an attacker could use to access your system and to do so from inception. This is oftentimes referred to as following a secure-by-design philosophy.
 
 
-There are five main types of system hardening:
+**There are five main types of system hardening:**
 
-**Server hardening**
-**Software application hardening**
-**Operating system hardening**
-**Database hardening**
-**Network hardening**
+* Server hardening
+* Software application hardening
+* Operating system hardening
+* Database hardening
+* Network hardening
