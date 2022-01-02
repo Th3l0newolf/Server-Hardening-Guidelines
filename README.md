@@ -1,3 +1,6 @@
+![alt text](https://github.com/Th3l0newolf/Server-Hardening-Guidelines/blob/main/how-to-secure-your-server.png)
+
+
 # Server-Hardening-Guidelines
 
 **System hardening** is the process of securing a server or computer system by minimizing its attack surface, or surface of vulnerability, and potential attack vectors. It’s a form of cyberattack protection that involves closing system loopholes that cyberattackers frequently use to exploit the system and gain access to users’ sensitive data.
